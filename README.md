@@ -1,4 +1,5 @@
-## Hi there 🔥 Take a see weary traveler
+## Hi there
+Take a seat weary traveler 🔥⛺
 <div id="header" align="left">
   <img src ="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="100"/>
 </div>
