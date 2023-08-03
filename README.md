@@ -1,6 +1,6 @@
 Hi there! I'm Simon <br>
 Take a seat weary traveler 🔥⛺ <br>
-Cybersecurity Professional with a passion for CTFs/Red Teaming/Web Application Security
+Cybersecurity Professional with a passion for CTFs/Red Teaming/Web Application Security/Threat Hunting/Digital Forensics and more :)
 <div id="header" align="left">
   <img src ="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" width="100"/>
 </div>
