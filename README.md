@@ -1,5 +1,5 @@
-Hi there! I'm Simon <br>
-Take a seat weary traveler 🔥⛺ <br>
+...I'm Simon <br>
+Take a seat weary traveler 🔥⛺ <br> 
 Cyber Security Professional with a passion for: <br>
 CTFs/Red Teaming/Threat Hunting/Cloud and Web Application Security :) <br>
 <div id="header" align="left">
