@@ -1,4 +1,4 @@
-...I'm Simon <br>
+Hi, I'm Simon... <br>
 Take a seat weary traveler 🔥⛺ <br> 
 Cyber Security Professional with a passion for: <br>
 CTFs/Red Teaming/Threat Hunting/Cloud, Application and AI Security :) <br>
