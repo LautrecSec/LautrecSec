@@ -7,4 +7,4 @@ CTFs/Red Teaming/Cloud/Application and AI Security :) <br>
 </div>
 <br>
 
-👯 I’m looking to collaborate with passionate people on CTFs, Cloud Security, Application and AI Security <br><br>
+I’m looking to collaborate with passionate people who are into CTFs and AI Hacking/ Purple Teaming AI <br><br>
